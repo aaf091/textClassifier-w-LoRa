@@ -16,8 +16,17 @@ A careful tuning of mixed precision and moderate data augmentation can unlock Lo
 - **Final Test Accuracy**: 90.28%
 
 ## Usage
-1. Download bf16 folder to view and run the final code.
-2. After downloading, run bf16/ LORA_1_batch_size_64_data_aug (1).ipynb locally.
+1. Clone the Github Repository in your local machine terminal.
+```bash
+git clone https://github.com/aaf091/textClassifier-w-LoRa.git
+cd textClassifier-w-LoRa/bf16
+jupyter notebook      
+```
+or
+```bash
+jupyter lab
+```
+3. On opening jupyter, run  LORA_1_batch_size_64_data_aug (1).ipynb locally with appropriate CUDA runtime(c12-m85-a100-1 for 12 hours atleast) to reproduce training results.
 - **Note**: Some notebooks may not render properly on GitHub due to metadata compatibility issues. To view them correctly, please download the notebook and open it locally using Jupyter Notebook or JupyterLab.
 
 ## Authors
