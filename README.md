@@ -18,7 +18,7 @@ A careful tuning of mixed precision and moderate data augmentation can unlock Lo
 ## Usage
 1. Download bf16 folder to view and run the final code.
 2. After downloading, run bf16/ LORA_1_batch_size_64_data_aug (1).ipynb locally.
-Note: Some notebooks may not render properly on GitHub due to metadata compatibility issues. To view them correctly, please download the notebook and open it locally using Jupyter Notebook or JupyterLab.
+- **Note**: Some notebooks may not render properly on GitHub due to metadata compatibility issues. To view them correctly, please download the notebook and open it locally using Jupyter Notebook or JupyterLab.
 
 ## Authors
 - Aadit Fadia
