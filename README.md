@@ -13,10 +13,7 @@ A careful tuning of mixed precision and moderate data augmentation can unlock Lo
 - **Data Augmentations**: 15 contextual augmentations
 - **LoRA rank**: r =16
 - **Scaling Factor**: α = 32 
-- **Final Test Accuracy**: 90.28%
-
-## Usage
-1. 
+- **Final Test Accuracy**: 90.28% 
 
 ## Authors
 - Aadit Fadia
