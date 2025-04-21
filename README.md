@@ -16,7 +16,8 @@ A careful tuning of mixed precision and moderate data augmentation can unlock Lo
 - **Final Test Accuracy**: 90.28%
 
 ## Usage
-1. Download bf16 folder to view and run the final code. 
+1. Download bf16 folder to view and run the final code.
+2. After downloading, run bf16/ LORA_1_batch_size_64_data_aug (1).ipynb locally.
 
 ## Authors
 - Aadit Fadia
